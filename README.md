@@ -1,6 +1,6 @@
-# messanger
+# messanger application
 
-A new Flutter project.
+A common flutter project .
 
 ## Getting Started
 
