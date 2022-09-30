@@ -1,16 +1,29 @@
-# messanger application
+Massenger App
+It is a summer training project to help people to communicate with each other.
 
-A common flutter project .
+![image](https://user-images.githubusercontent.com/111139674/193188924-236508dc-27e6-4e78-bfac-d9c157752e81.png)
 
-## Getting Started
+1) Idea of the project:
+I worked on the common application to do the following:
 
-This project is a starting point for a Flutter application.
+1- Help people to chat each other.
+2- Helping illiterate people to chat each other using mic .
 
-A few resources to get you started if this is your first Flutter project:
+2) Language & Libraries or packages used:
+Language:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dart.
+Libraries:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bloc state Mangement 
+SharedPrefrence to handel realtime mode(dark and light) and save it
+Firebase core 
+Clean Architecture
+clean code
+
+contributors:
+Yahia Omar
+Supervisors:
+
+Eng / Abdullah Mansour
+
